@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+venv/*
+*.pyc
+*.log
+*.out
+env.service.ts
+dist/hlc-app/*
+DCE/appserver/hlc-app/dist/*
+DCE/.vscode/settings.json
+moses_log.txt
+*favicon.ico
+node_modules/*
+
+
